@@ -1,0 +1,5 @@
+C:\COE\RnD\CSharpHelpers\CSharpHelpers\bin\Debug\CSharpHelpers.dll
+C:\COE\RnD\CSharpHelpers\CSharpHelpers\bin\Debug\CSharpHelpers.pdb
+C:\COE\RnD\CSharpHelpers\CSharpHelpers\obj\Debug\CSharpHelpers.csprojResolveAssemblyReference.cache
+C:\COE\RnD\CSharpHelpers\CSharpHelpers\obj\Debug\CSharpHelpers.dll
+C:\COE\RnD\CSharpHelpers\CSharpHelpers\obj\Debug\CSharpHelpers.pdb
